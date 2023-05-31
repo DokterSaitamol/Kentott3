@@ -52,31 +52,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/l4c1f2r' //Link Instagrammu
-global.sgh = 'https://github.com/Lucife-Putra' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+global.sgh = 'https://github.com/fthryzz??' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/I40laAbA1Ea8Em7GrVwKAp'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '083863727401' //Nomor Danamu
-global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
-global.pgopay = '083863727401'
-global.povo = '083863727401'
+global.pdana = '081260431003' //Nomor Danamu
+global.ppulsa = '081260431003' //Nomor SimCard Yang Kamu Pake
+global.pgopay = '081260431003'
+global.povo = '081260431003'
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283863727376' //Nomor Bot
-global.nomorown = '6283863727401' //Nomor Owner
+global.nomorown = '6281260431003' //Nomor Owner
 global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401'
-global.tautanwa = 'https://api.whatsapp.com/send?phone=+6283863727401' //kalau bisa link wa bisnis kalian
+global.nameown = '༄fathurr☆࿐' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+6281260431003'
+global.tautanwa = 'https://api.whatsapp.com/send?phone=+6281260431003' //kalau bisa link wa bisnis kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283863727401', '❦ ༄ᶜputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281260431003', '❦ ༄fathurr☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -411,7 +411,7 @@ global.md = pickRandom(["_In progress, please wait..._", "Proses", "Tunggu Seben
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 838 6372 7401'
+global.phn = '+62 812 6043 1003'
 
 //Danied\\
 
